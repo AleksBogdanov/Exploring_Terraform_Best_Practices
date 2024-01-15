@@ -17,3 +17,7 @@
 
 ## Terraform Synthax
 
+Code in Terraform is stored in plain text config files, with extension .tf
+HCL - HashiCorp Language 
+Also .tj.json 
+
