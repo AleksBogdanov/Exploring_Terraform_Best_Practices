@@ -14,3 +14,6 @@
 
 5) Terraform destroy
 # terraform destroy
+
+## Terraform Synthax
+
